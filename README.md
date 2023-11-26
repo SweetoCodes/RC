@@ -19,3 +19,12 @@ How can the effort barrier to creating and consuming content be lowered, and qua
 
 ### Migrating a turborepo project to Clouflare Pages
 Nion comes from the [t3 turbo stack](https://github.com/t3-oss/create-t3-turbo), it currently runs on Vercel and i'd love to move it to Cloudflare Pages. However, i'm struggling to successfully build a turborepo project on cloudflare.
+
+## Other Things I'm Spending Time Building
+Raft (Community) - Spending time with people by default.
+
+Lax - A neural net library based on Jax.
+
+3d Avatar - Finishing the 3d scene of my personal website.
+
+Monte Carlo Simulations - Simulating how businesses evolve and compete.
