@@ -25,7 +25,7 @@ Raft (Community) - Spending time with people by default.
 
 Lax - A neural net library based on Jax.
 
-3d Avatar - Finishing the 3d scene of my personal website (+ fixing the now-playing spotify widget).
+3d Avatar - Finishing the 3d scene of my personal website (+ fixing the now-playing spotify widget) + a live health dashboard displaying semi-real time health information from the Apple Health/Oura APIs.
 
 Monte Carlo Simulations - Simulating how businesses evolve and compete.
 
