@@ -4,7 +4,7 @@
 I'm currently taking part in the [Recurse Center](https://www.recurse.com/) W1 Batch. This is a place to put the things i'm currently working on and thinking about.
 
 ## What Am I Generally Working On?
-Learning (how we can better create, collaborate on and consume information). I've previously explained what i'm trying to build as creating an open source learning ecosystem, similar to what Github has done for developers, but for learning more broadly. I'll be pushing changes as I make them (here)[https://www.nion.ai/] (assume everything uploaded for the next few months won't be persisted :) ).
+Learning (how we can better create, collaborate on and consume information). I've previously explained what i'm trying to build as creating an open source learning ecosystem, similar to what Github has done for developers, but for learning more broadly. I'll be pushing changes as I make them [here](https://www.nion.ai/) (assume everything uploaded for the next few months won't be persisted :) ).
 
 ## Specific Problems That I'm Thinking About/Working On
 ### Building an expressive block based editor optimised for learning
