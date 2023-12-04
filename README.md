@@ -30,3 +30,5 @@ Lax - A neural net library based on Jax.
 Monte Carlo Simulations - Simulating how businesses evolve and compete.
 
 A Rust based database implementation.
+
+A toy implementation of a trust based blockchain consensus mechanism as outlined [here](https://charliesweeting.com/writing/proof-by-collective-an-identity-based-blockchain-consensus-mechanism).
